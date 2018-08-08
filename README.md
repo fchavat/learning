@@ -6,4 +6,4 @@ More new features
 
 Some features on another branch!!!
 
-Something new
+Another thing new
